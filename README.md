@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 Run the script using Python:
 ```
-python cube_rotation.py
+python cube.py
 ```
 You should see a rotating cube in your terminal window.
 
