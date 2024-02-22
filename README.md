@@ -11,7 +11,7 @@ This Python script allows you to visualize a rotating cube using ASCII art in th
 
 1. Clone the repository:
 ```
-git clone https://github.com/alt44s/cube-rotation.git
+git clone https://github.com/alt44s/cube-spin.git
 ```
 2. Navigate to the project directory:
 ``` 
