@@ -19,7 +19,7 @@ git clone https://github.com/alt44s/cube-spin.git
 ```
 2. Navigate to the project directory:
 ``` 
-cd cube-rotation
+cd cube-spin
 ```
 3. Install the required dependencies:
 ```
