@@ -2,6 +2,10 @@
 
 This Python script allows you to visualize a rotating cube using ASCII art in the terminal. It utilizes the `curses` module to create a simple 3D rendering of a cube and rotates it around the x, y, and z axes.
 
+## Example
+
+![yab](https://github.com/alt44s/cube-spin/assets/48489145/aa4e9caf-f8cc-450c-8b45-8811c3e3f5ca)
+
 ## Requirements
 
 - Python 3.x
